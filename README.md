@@ -256,9 +256,9 @@ Todas nuestras joyas cuentan con certificado de garantía y guía de cuidado par
 
 <h2 class="titulo">Contáctanos</h2>
 
-<p>📱 WhatsApp: +57 300 000 0000</p>
+<p>📱 WhatsApp: +57 301 296 8153</p>
 
-<p>📷 Instagram: @gardeniajoyeria</p>
+<p>📷 Instagram: @gardenia____joyeria</p>
 
 <p>📍 Medellín, Colombia</p>
 
